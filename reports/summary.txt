@@ -1,0 +1,24 @@
+Resumen del documento:
+- Palabras totales: 496
+- Palabras únicas: 260
+
+- 10 palabras más comunes:
+  - de: 47
+  - y: 23
+  - en: 16
+  - con: 9
+  - software: 9
+  - la: 8
+  - para: 8
+  - abr: 8
+  - del: 7
+  - 2025: 7
+
+- Correos encontrados (1):
+  - eduardoevargasp@hotmail.com
+
+- Teléfonos encontrados (1):
+  - +593 99660 8235
+
+- Nombres propios detectados (estimado: 141):
+Ingeniero, Sistemas, Cuento, Educación Primaria, May, Escuela, Aimee, Bachillerato Técnico, Comercio, Administración...
